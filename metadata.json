@@ -1,0 +1,9 @@
+{
+  "name": "Gemini OS",
+  "description": "A high-performance, web-based operating system simulation inspired by ChromeOS and FydeOS, featuring window management, an app launcher, and integrated Gemini AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
